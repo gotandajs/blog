@@ -71,3 +71,9 @@ deploy:
   type: git
   repo: git@github.com:gotandajs/blog.git
   branch: gh-pages
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
