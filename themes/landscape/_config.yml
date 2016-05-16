@@ -1,7 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  About: /
+  Slack: /#slack
+  Event: http://gotandajs.connpass.com/
 rss: /atom.xml
 
 # Content
