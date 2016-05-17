@@ -5,6 +5,10 @@ menu:
   Event: http://gotandajs.connpass.com/
 rss: /atom.xml
 
+# OGP
+og:
+  image: /images/ogimage.png
+
 # Content
 excerpt_link: Read More
 fancybox: true

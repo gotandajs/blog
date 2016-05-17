@@ -7,7 +7,7 @@ title: Gotanda.js Blog
 subtitle: これからは 五反田 と JavaScript の時代
 description:
 author:
-language:
+language: ja
 timezone:
 
 # URL
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
