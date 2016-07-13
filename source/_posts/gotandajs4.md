@@ -2,9 +2,20 @@
 title: 'Gotanda.js #4 in Retty を開催しました'
 date: 2016-06-07 00:00:00
 tags: event
+description: '6月3日(金) に Gotanda.js #4 を開催しました！'
+og:
+  image: 'image.jpg'
 ---
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+6月3日(金) に Gotanda.js #4 を開催しました！
+
+**[Gotanda.js #4 in Retty - connpass](http://gotandajs.connpass.com/event/30961/)**
+
+参加していただいた皆様ありがとうございました！
+
+{% asset_img image.jpg "Gotanda.js #4 in Retty" %}
 
 ## LT x 8
 
@@ -32,8 +43,9 @@ tags: event
 <script async class="speakerdeck-embed" data-id="aefab1d44a61479c9032ed7a99b26d25" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 
-
-
 ## 感想ブログなど
 - [Gotanda.js #4 in Retty で LT してきた #gotandajs - チラシ裏日記上等！！新館](http://www.chirashiura.com/entry/2016/06/03/234433)
 - [Gotanda.js#4 in Retty でLTしてきました #gotandajs - 日頃の行い](http://arata.hatenadiary.com/entry/2016/06/06/080000_1)
+
+## Gotanda.js #5
+次回 Gotanda.js #5 は 9/2 に トレタ さんで開催予定です！
