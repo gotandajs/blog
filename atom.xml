@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Gotanda.js Blog</title>
+  <subtitle>これからは 五反田 と JavaScript の時代</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="http://gotanda.js.org/blog/"/>
+  <updated>2016-07-13T15:14:33.000Z</updated>
+  <id>http://gotanda.js.org/blog/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Gotanda.js #4 in Retty を開催しました</title>
+    <link href="http://gotanda.js.org/blog/2016/06/07/gotandajs4/"/>
+    <id>http://gotanda.js.org/blog/2016/06/07/gotandajs4/</id>
+    <published>2016-06-06T15:00:00.000Z</published>
+    <updated>2016-07-13T15:14:33.000Z</updated>
+    
+    <content type="html">&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;6月3日(金) に Gotanda.js #4 を開催しました！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://gotandajs.connpass.com/event/30961/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gotanda.js #4 in Retty - connpass&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;参加していただいた皆様ありがとうございました！&lt;/p&gt;
+&lt;img src=&quot;/blog/2016/06/07/gotandajs4/image.jpg&quot; alt=&quot;Gotanda.js #4 in Retty&quot; title=&quot;Gotanda.js #4 in Retty&quot;&gt;
+&lt;h2 id=&quot;LT-x-8&quot;&gt;&lt;a href=&quot;#LT-x-8&quot; class=&quot;headerlink&quot; title=&quot;LT x 8&quot;&gt;&lt;/a&gt;LT x 8&lt;/h2&gt;&lt;h3 id=&quot;tomato360-Electron-で-Firebase-を使ってみる（仮&quot;&gt;&lt;a href=&quot;#tomato360-Electron-で-Firebase-を使ってみる（仮&quot; class=&quot;headerlink&quot; title=&quot;@tomato360 Electron で Firebase を使ってみる（仮)&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/tomato360&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@tomato360&lt;/a&gt; Electron で Firebase を使ってみる（仮)&lt;/h3&gt;&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;d381859d23a14e30a6617e1e94092152&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;mizuki-r-syntagme-jsの紹介&quot;&gt;&lt;a href=&quot;#mizuki-r-syntagme-jsの紹介&quot; class=&quot;headerlink&quot; title=&quot;@mizuki_r syntagme.jsの紹介&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/mizuki_r&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@mizuki_r&lt;/a&gt; syntagme.jsの紹介&lt;/h3&gt;&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;872469c2f759492ebf8db642b761abb0&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;rchaser53-RxJS5&quot;&gt;&lt;a href=&quot;#rchaser53-RxJS5&quot; class=&quot;headerlink&quot; title=&quot;@rchaser53 RxJS5&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/rchaser53&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@rchaser53&lt;/a&gt; RxJS5&lt;/h3&gt;&lt;h3 id=&quot;ufo-ocha-CSS-in-JSにおけるコンポーネント設計&quot;&gt;&lt;a href=&quot;#ufo-ocha-CSS-in-JSにおけるコンポーネント設計&quot; class=&quot;headerlink&quot; title=&quot;@ufo_ocha CSS in JSにおけるコンポーネント設計&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/ufo_ocha&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@ufo_ocha&lt;/a&gt; CSS in JSにおけるコンポーネント設計&lt;/h3&gt;&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;次のLTの資料です！ &lt;a href=&quot;https://t.co/TFgr6lbwr7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://t.co/TFgr6lbwr7&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/gotandajs?src=hash&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;#gotandajs&lt;/a&gt;&lt;/p&gt;&amp;mdash; UFO (@ufo_ocha) &lt;a href=&quot;https://twitter.com/ufo_ocha/status/738687304496095232&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;June 3, 2016&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;ara-ta3-あなたとRPG今すぐインストール&quot;&gt;&lt;a href=&quot;#ara-ta3-あなたとRPG今すぐインストール&quot; class=&quot;headerlink&quot; title=&quot;@ara_ta3 あなたとRPG今すぐインストール&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/ara_ta3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@ara_ta3&lt;/a&gt; あなたとRPG今すぐインストー&lt;br&gt;ル&lt;/h3&gt;&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;258528c4ad0941bdb02db236d8082501&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;kazu-pon-Vue-js-2-0&quot;&gt;&lt;a href=&quot;#kazu-pon-Vue-js-2-0&quot; class=&quot;headerlink&quot; title=&quot;@kazu_pon Vue.js 2.0&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/kazu_pon&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@kazu_pon&lt;/a&gt; Vue.js 2.0&lt;/h3&gt;&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;7ffc2d5b5d614929b895ebe75c4617bd&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;tohashi-大規模プロダクト-Webpack-やっていく気持ち&quot;&gt;&lt;a href=&quot;#tohashi-大規模プロダクト-Webpack-やっていく気持ち&quot; class=&quot;headerlink&quot; title=&quot;@_tohashi 大規模プロダクト Webpack やっていく気持ち&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/_tohashi&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@_tohashi&lt;/a&gt; 大規模プロダクト Webpack やっていく気持ち&lt;/h3&gt;&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/v84dhPHvlzaoyA&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;h3 id=&quot;pine613-Node-v6-with-ES2015&quot;&gt;&lt;a href=&quot;#pine613-Node-v6-with-ES2015&quot; class=&quot;headerlink&quot; title=&quot;@pine613 Node v6 with ES2015&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/pine613&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@pine613&lt;/a&gt; Node v6 with ES2015&lt;/h3&gt;&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;aefab1d44a61479c9032ed7a99b26d25&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&quot;感想ブログなど&quot;&gt;&lt;a href=&quot;#感想ブログなど&quot; class=&quot;headerlink&quot; title=&quot;感想ブログなど&quot;&gt;&lt;/a&gt;感想ブログなど&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.chirashiura.com/entry/2016/06/03/234433&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gotanda.js #4 in Retty で LT してきた #gotandajs - チラシ裏日記上等！！新館&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://arata.hatenadiary.com/entry/2016/06/06/080000_1&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gotanda.js#4 in Retty でLTしてきました #gotandajs - 日頃の行い&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Gotanda-js-5&quot;&gt;&lt;a href=&quot;#Gotanda-js-5&quot; class=&quot;headerlink&quot; title=&quot;Gotanda.js #5&quot;&gt;&lt;/a&gt;Gotanda.js #5&lt;/h2&gt;&lt;p&gt;次回 Gotanda.js #5 は 9/2 に トレタ さんで開催予定です！&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      6月3日(金) に Gotanda.js #4 を開催しました！
+    
+    </summary>
+    
+    
+      <category term="event" scheme="http://gotanda.js.org/blog/tags/event/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gotanda.js #4 in Retty を開催します！</title>
+    <link href="http://gotanda.js.org/blog/2016/05/17/event4retty/"/>
+    <id>http://gotanda.js.org/blog/2016/05/17/event4retty/</id>
+    <published>2016-05-17T01:00:00.000Z</published>
+    <updated>2016-07-13T14:19:36.000Z</updated>
+    
+    <content type="html">&lt;p&gt;6月3日(金) に &lt;strong&gt;Gotanda.js #4&lt;/strong&gt; を開催します！&lt;br&gt;今回の会場は &lt;a href=&quot;https://retty.me/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;株式会社 Retty&lt;/strong&gt;&lt;/a&gt; さんです！&lt;/p&gt;
+&lt;p&gt;イベント詳細・参加登録は以下のリンクからどうぞ！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://gotandajs.connpass.com/event/30961/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Gotanda.js #4 in Retty - connpass&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;LT も募集していますのでお気軽にお申し込みください〜〜〜&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;6月3日(金) に &lt;strong&gt;Gotanda.js #4&lt;/strong&gt; を開催します！&lt;br&gt;今回の会場は &lt;a href=&quot;https://retty.me/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;株式会社 Retty&lt;
+    
+    </summary>
+    
+    
+      <category term="event" scheme="http://gotanda.js.org/blog/tags/event/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ごたじぇーブログはじめました</title>
+    <link href="http://gotanda.js.org/blog/2016/05/17/initial/"/>
+    <id>http://gotanda.js.org/blog/2016/05/17/initial/</id>
+    <published>2016-05-16T15:00:00.000Z</published>
+    <updated>2016-07-13T14:19:36.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Gotanda.js 主宰の &lt;a href=&quot;https://twitter.com/hoto17296&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@hoto17296&lt;/a&gt; です！&lt;/p&gt;
+&lt;p&gt;ごたじぇーのブログを作ったので、次回イベントの情報やイベントのレポートなどを書いて行きたいと思います( ´ー｀)&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Gotanda.js 主宰の &lt;a href=&quot;https://twitter.com/hoto17296&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@hoto17296&lt;/a&gt; です！&lt;/p&gt;
+&lt;p&gt;ごたじぇーのブログを作ったので、次回イベントの情報
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
